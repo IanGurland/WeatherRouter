@@ -1,3 +1,5 @@
+# This README is not complete. This project was reuploaded from a private repository with permission from professor. It is the work of four students: Ian Gurland, Naveen Sharma, Anoop Manjal, and Joe Pate.
+
 # WeatherRouter
 
 Weather Router is a Java and React web-app built to improve driving safety. We aim to increase drivers’ awareness of the weather while on the road and suggest safe driving routes to prevent driving in dangerous conditions. Our app is localized to Rhode Island -- but can be extended to entire US with a larger dataset.
