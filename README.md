@@ -1,4 +1,4 @@
-# This README is not complete (will be updated within 24hrs). This project was reuploaded from a private repository with permission from professor. It is the work of four students: Ian Gurland, Naveen Sharma, Anoop Manjal, and Joe Pate.
+# This README is not complete (will be updated within 3 days). This project was reuploaded from a private repository with permission from professor. It is the work of four students: Ian Gurland, Naveen Sharma, Anoop Manjal, and Joe Pate.
 
 # WeatherRouter
 
